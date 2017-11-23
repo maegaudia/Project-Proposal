@@ -16,6 +16,88 @@ I. Overview of the Social Issue
    by secondhand smoke are equally devastating. Secondhand smoke causes 600,000 deaths
    yearly according to the World Health Organization.
        Despite the government's fervent efforts to curb the unhealthy habit of smoking
-       cigarettes among Filipinos, many still continue this practice. According to the
-       Global Adult Tobacco Survey (GATS), 28% of thr Filipino adults aged 15 years
-       and older are tobacco smokers.
+   cigarettes among Filipinos, many still continue this practice. According to the
+   Global Adult Tobacco Survey (GATS), 28% of thr Filipino adults aged 15 years
+   and older are tobacco smokers. Of these, 48% made an attempt to quit, but only
+   mere 5% has succeeded in doing so. On the other hand, the Global Youth Tobacco
+   Survey shows that 12% of students aged 13 to 15 years are smokers, which increased
+   from 8.9% in 2011.
+   
+II. Overview of the Information System Solution
+        We propose to design a mobile application which will aid the user who wants to
+    quit smoking. The various functions that the application will provide will be based
+    on the preliminary information that the user will input upon their first use. This
+    will make the application tailor to the user's needs as personally as possible.
+        The functions of the application will include: (a) calendar which tracks the
+    progress of the user in terms of the days he did not smoke; (b) calculator for money
+    saved by quitting smoking, based on the information that the user will provide regarding
+    the details of their smoking habit; (c) calculator for the amount of time saved from
+    quitting smoking, also based on the information that the user will provide; (d) various
+    information about smoking such as negative effects to oneself and to others; (e) information
+    on the location of various quitting clinics; (f) quick dial function for the Department
+    of Health's "quitline"; and (g) a  "buddy" function: the user can view other user's
+    profiles where they can see their achievements (number of days quit, money saved, etc)
+    and can add them as a "quitting buddy".
+        The calendar that serves as a tracker and the calculator that computes the amount of
+    savings would help the user motivate to continue his progress. Knowing the quitting clinics
+    and having a quick dial function for the DOH's quitline for smokers would give the user the
+    external helps that he needs. Having quitting buddies and seeing their progress and achievements
+    would also help motivate the user. They can also help encourage each other and give advices.
+    
+III. Review of Related Literature
+        As of 2016, there are 29.7 million Filipino who are smartphone users.  These smartphones
+    are most probably called as such due to the  increased functionality and features such as
+    being able to run various apps, play games, take pictures, use as a navigator, play music,
+    and a lot more. This plethora of features makes the smartphone akin to a "Swiss Army Knife".
+    This is also the reason why more and more people become dependent on these handy devices.
+    It is no surprise then, that even for support in smoking cessation, a lot of smokers
+    who are also smartphone users turn to apps to aid them in their endeavor.
+        For smokers who are reluctant to have a consultation, or are not keen on support
+    groups and personal interaction, they can turn to the app for a decent aid in quitting.
+    Mobile phone-based smoking cessation apps and programs are reported as easy to use
+    and understand, feasible and acceptable, convenient, and less intrusive.
+        The downloads for the smoking cessation applications for android phones tally between
+    310,800  and 1,248,000 per month. The number of downloads of apps for iPhones is not
+    available in the Apple Store, so these could not be tallied. These applications can be
+    categorized as: (a)calculator; (b) hypnosis; (c) rationing; and (d) calendar/tracker.
+    According to the study, these apps did not conform to, or have very little integration
+    of, the Clinical Practice Guidelines for Treating Tobacco Use and Dependence, and other
+    proven methods and practices.
+        Studies have shown that social interventions aid in the continuance of smoking cessation.
+    One of these has analyzed an online social support network and its effect in the success
+    of quitting. The online network consisted of various people from different stages of quitting
+    and various age groups. This stratified arrangement produced favorable result, as there is
+    sharing of information and wisdom between successful quitters and beginners. Another study,
+    though limited only to two groups which are broadly categorized as "married" and "single"
+    respectively, had also shown generally favorable results in the first group. Another helpful
+    factor in quitting is to have someone as a comparison for one's progress, be it as a role
+    model or a competitor. These findings are the basis for the in-app social network. The user
+    can get motivated by seeing the achievements on another person's profile.
+        To help reinforce the need to quit smoking, information regarding the health risks must
+    be properly conveyed to the smoker. A study shows that there are smokers who have misconceptions
+    on the dire effects of smoking, most commonly adolescents who have at least one family member
+    who is a smoker. These misinformed adolescents have the highest risk of the detrimental
+    effects of smoking as they do not understand the consequences it brings. This is the basis
+    for adding smoking information in the app.
+    
+IV. References
+        Abroms LC, Padmanabhan N, Thaweethai L, Phillips T. (2011); iPhone Apps for Smoking
+    Cessation: A Content Analysis; Elsevier Inc.
+        Abroms LC, Westmass JL, Bontemps-Jones J, et al. (2013); A Content Analysis of Popular
+    Smartphone Apps for Smoking Cessation; Elsevier Inc.
+        Ahmed S, Sharmin M. (2015); Why do mobile phone-based smoking cessation interventions
+    struggle and how can we make them more efective?; iConference 2015 Proceedings
+        Cahill K, Perera R (2008); Competitions and Incentives for Smoking Cessation; Cochrane
+    Database of Systematic Reviews
+        Fiore MC, Jaen CR, Baker TB, et al. (2008); Treating Tobacco Use and Dependence: 2008 Update;
+    Rockville, MD: U.S. Department of Health and Human Services
+        Harun, et al. (2015); Smartphone Dependency and Its Impact on Purchase 	Behavior;
+    Canadian Center of Science and Education
+        Leventhal H, Glynn K, Fleming R (1987); Is the Smoking Decision an 'Informed Choice'?
+    Effect of Smoking Risk Factors on Smoking Beliefs; Journal of the American Medical Associaltion
+        Mermelstein R, Cohen S, Lichtenstein E, et al. (1986); Social Support and Smoking Cessation
+    and Maintenance; Journal of Consulting and Clinical Psychology
+        Mishra A, Chaturvedi P, Datta S, et al. (2015); Harmful Effects of Nicotine; Indian Journal
+    of Medical and Paediatric Oncology
+        Satyanarayanan, M. (2005); Swiss army knife or wallet?; IEEE
+
